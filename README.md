@@ -4,7 +4,7 @@ Output - HK 1980 Grid Coordinate
 
 WGS84 GPS → 香港 HK1980 方格網坐標
 
-#I am looking for some sample code to do this transform, but no one do this (sad).
+#I am looking for some sample code to do this transform, but no one do this (sad).\b
 #So I just turn the swift version to Objective C version.
 #If anyone need swift version, please tell me, I'll upload as well.
 
