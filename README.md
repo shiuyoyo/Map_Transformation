@@ -1,4 +1,5 @@
-# Map_Transformation
+# WGS84 GPS →  HK1980 香港方格網坐標 Map_Transformation
+(HK1980 = EPSG 2326, WGS84 = EPSG 4326)
 
 Input - WGS84 (ITRF96 Reference Frame)
 
